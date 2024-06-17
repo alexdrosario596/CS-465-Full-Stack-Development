@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data"
+    "\\app_admin",
+    "\\app_admin\\src",
+    "\\app_admin\\src\\assets",
+    "\\app_api",
+    "\\app_api\\models",
+    "\\app_api\\routes",
+    "\\app_server",
+    "\\app_server\\controllers",
+    "\\app_server\\views"
   ],
-  "SelectedNode": "\\data",
   "PreviewInSolutionExplorer": false
 }
